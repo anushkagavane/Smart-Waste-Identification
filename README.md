@@ -1,1 +1,1 @@
-# Smart-Waste-Identification
+# Smart Waste Identification
